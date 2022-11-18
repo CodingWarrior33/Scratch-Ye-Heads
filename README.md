@@ -46,6 +46,7 @@ What you waiting for now ?!.... Start Scratching !!!
 - Make Sure the purple beetle is selected in while coding. You can select a particular game element by clicking on the images shown on the bottom right
 
 ### Optimal Solution: 
+![](https://github.com/CodingWarrior33/Scratch-Ye-Heads/blob/ce7a1c4cc563516e691b627bced2e2c9637e4941/Project_Deets/OPS1.gif)
 
 
 ## Task 2 : Starfish Regeneration ( Estimated Time : 35 mins )
@@ -69,7 +70,7 @@ What you waiting for now ?!.... Start Scratching !!!
 
 
 ### Optimal Solution: 
-
+![](https://github.com/CodingWarrior33/Scratch-Ye-Heads/blob/ce7a1c4cc563516e691b627bced2e2c9637e4941/Project_Deets/OPS2.gif)
 
 ## Task 3 : Practice For FIFA World Cup ( Estimated Time : 55 mins )
 `NOW IS ALL: Live your dream, Realise your destiny – and Own the moment`
@@ -93,4 +94,4 @@ What you waiting for now ?!.... Start Scratching !!!
 - Use if else branching on the `config` variable.
 
 ### Optimal Solution: 
-
+![](https://github.com/CodingWarrior33/Scratch-Ye-Heads/blob/ce7a1c4cc563516e691b627bced2e2c9637e4941/Project_Deets/OPS3.gif)

@@ -31,6 +31,7 @@ What you waiting for now ?!.... Start Scratching !!!
 ## Task 1 : Beetles in Love ( Estimated Time : 25 mins ) 
 
 `A dung beetle couple in love constantly proves that you still can be in love living on shit...`
+![](https://github.com/CodingWarrior33/Scratch-Ye-Heads/blob/a08a83549d199775c45466a3fc1cd9683162963b/Project_Deets/dungbeetle.gif)
 
 ### Objective
 - Make the purple beetle walk the highlighted path and reach the pink beetle
@@ -51,6 +52,8 @@ What you waiting for now ?!.... Start Scratching !!!
 
 `In the vast oceanic universe starfishes are the stars in the sky of the shore...`
 
+![](https://github.com/CodingWarrior33/Scratch-Ye-Heads/blob/a08a83549d199775c45466a3fc1cd9683162963b/Project_Deets/patrick-spongebob-squarepants.gif)
+
 ### Objective  
 - Make the star-fishes regenerate in the given pattern to solve this task
 
@@ -62,11 +65,17 @@ What you waiting for now ?!.... Start Scratching !!!
 - New Variables can be made by going to `Variables` option on the left. Try creating new variables and using them for this task.
 - Relative Movement Positions on the X and Y are as follows:
 
+ ![](https://github.com/CodingWarrior33/Scratch-Ye-Heads/blob/a08a83549d199775c45466a3fc1cd9683162963b/Project_Deets/rel_pos.jpeg)
+
+
 ### Optimal Solution: 
 
 
 ## Task 3 : Practice For FIFA World Cup ( Estimated Time : 55 mins )
 `NOW IS ALL: Live your dream, Realise your destiny – and Own the moment`
+
+![](https://github.com/CodingWarrior33/Scratch-Ye-Heads/blob/a08a83549d199775c45466a3fc1cd9683162963b/Project_Deets/fifa.gif)
+
 
 ### Objective
 - Help the midfield player achieve different configurations while passing.

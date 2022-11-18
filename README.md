@@ -31,13 +31,14 @@ What you waiting for now ?!.... Start Scratching !!!
 ## Task 1 : Beetles in Love ( Estimated Time : 25 mins ) 
 
 `A dung beetle couple in love constantly proves that you still can be in love living on shit...`
+
 ![](https://github.com/CodingWarrior33/Scratch-Ye-Heads/blob/a08a83549d199775c45466a3fc1cd9683162963b/Project_Deets/dungbeetle.gif)
 
 ### Objective
 - Make the purple beetle walk the highlighted path and reach the pink beetle
 
 ### Project Setup:
-- Open this [link](url) and click on `Remix`
+- Open this [link](https://scratch.mit.edu/projects/763979955/) and click on `Remix`
 
 ### Hints and Clues:
 - `Motion`,`Control` and `Sensing` is used
@@ -59,11 +60,12 @@ What you waiting for now ?!.... Start Scratching !!!
 - Make the star-fishes regenerate in the given pattern to solve this task
 
 ### Project Setup:
-- Open this [link](url) and click on `Remix`
+- Open this [link](https://scratch.mit.edu/projects/763982841/) and click on `Remix`
 
 ### Hints and Clues:
 - For pattern generation you can refer to the following website: [Pyramid-Printing-GeeksForGeeks](https://www.geeksforgeeks.org/programs-printing-pyramid-patterns-python/)
-- New Variables can be made by going to `Variables` option on the left. Try creating new variables and using them for this task.
+- New Variables can be made by going to `Variables` option on the left
+- Some variables are already created for you. Try creating some more variables to solve the task
 - Relative Movement Positions on the X and Y are as follows:
 
  ![](https://github.com/CodingWarrior33/Scratch-Ye-Heads/blob/a08a83549d199775c45466a3fc1cd9683162963b/Project_Deets/rel_pos.jpeg)
@@ -82,7 +84,7 @@ What you waiting for now ?!.... Start Scratching !!!
 - Help the midfield player achieve different configurations while passing.
 
 ### Project Setup:
-- Open this [link](url) and click on `Remix`
+- Open this [link](https://scratch.mit.edu/projects/763984802/) and click on `Remix`
 
 ### Hints and Clues:
 - List Functions can be seen in the `Variables` option on the left

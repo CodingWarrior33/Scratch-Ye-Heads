@@ -23,6 +23,11 @@ What you waiting for now ?!.... Start Scratching !!!
 - The stage where the output will be shown is already set up and the characters are implemented.
 - Just think of the logic and drag-n-drop blocks and progress.
 
+## Output Format:
+- Make a word file locally and save as `Scratch`
+- Make Sure you save the project as sharable. Click on `Share` at the top to make the project sharable.
+- Copy link of the project and save it in the word file with Task1/ Task2/ Task3 as the heading.
+
 ## Task 1 : Beetles in Love ( Estimated Time : 25 mins ) 
 
 `A dung beetle couple in love constantly proves that you still can be in love living on shit...`
@@ -42,11 +47,6 @@ What you waiting for now ?!.... Start Scratching !!!
 ### Optimal Solution: 
 
 
-### Output Format:
-- Make a word file locally and save as `Scratch`
-- Make Sure you save the project as sharable. Click on `Share` at the top to make the project sharable.
-- Copy link of the project and save it in the word file with Task 1 as the heading.
-
 ## Task 2 : Starfish Regeneration ( Estimated Time : 35 mins )
 
 `In the vast oceanic universe starfishes are the stars in the sky of the shore...`
@@ -60,7 +60,9 @@ What you waiting for now ?!.... Start Scratching !!!
 ### Hints and Clues:
 - For pattern generation you can refer to the following website: [Pyramid-Printing-GeeksForGeeks](https://www.geeksforgeeks.org/programs-printing-pyramid-patterns-python/)
 - New Variables can be made by going to `Variables` option on the left. Try creating new variables and using them for this task.
-- Relative Positions on the X and Y are as follows:
+- Relative Movement Positions on the X and Y are as follows:
+
+### Optimal Solution: 
 
 
 ## Task 3 : Practice For FIFA World Cup ( Estimated Time : 55 mins )

@@ -38,7 +38,7 @@ What you waiting for now ?!.... Start Scratching !!!
 - Make the purple beetle walk the highlighted path and reach the pink beetle
 
 ### Project Setup:
-- Open this [link](https://scratch.mit.edu/projects/763979955/) and click on `Remix`
+- Open this [link](https://scratch.mit.edu/projects/763979955/) IN A NEW TAB and click on `Remix`
 
 ### Hints and Clues:
 - `Motion`,`Control` and `Sensing` is used
@@ -60,7 +60,7 @@ What you waiting for now ?!.... Start Scratching !!!
 - Make the star-fishes regenerate in the given pattern to solve this task
 
 ### Project Setup:
-- Open this [link](https://scratch.mit.edu/projects/763982841/) and click on `Remix`
+- Open this [link](https://scratch.mit.edu/projects/763982841/) IN A NEW TAB and click on `Remix`
 
 ### Hints and Clues:
 - For pattern generation you can refer to the following website: [Pyramid-Printing-GeeksForGeeks](https://www.geeksforgeeks.org/programs-printing-pyramid-patterns-python/)
@@ -84,7 +84,7 @@ What you waiting for now ?!.... Start Scratching !!!
 - Help the midfield player achieve different configurations while passing.
 
 ### Project Setup:
-- Open this [link](https://scratch.mit.edu/projects/763984802/) and click on `Remix`
+- Open this [link](https://scratch.mit.edu/projects/763984802/) IN A NEW TAB and click on `Remix`
 
 ### Hints and Clues:
 - List Functions can be seen in the `Variables` option on the left

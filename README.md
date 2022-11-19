@@ -12,7 +12,7 @@ What you waiting for now ?!.... Start Scratching !!!
 
 
 ## Setting Up the Environment ( Estimated Time : 5 mins )
-- Create an account on [Scatch](https://scratch.mit.edu/)
+- Create an account on [Scratch](https://scratch.mit.edu/)
 - Verify your email
 - All further tasks will be held on this platform for this contest
 
